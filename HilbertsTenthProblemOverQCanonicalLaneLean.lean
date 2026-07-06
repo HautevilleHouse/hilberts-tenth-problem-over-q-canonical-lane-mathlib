@@ -1,0 +1,7 @@
+-- This module is the root of the HilbertsTenthProblemOverQCanonicalLaneLean Lean proof package.
+import HilbertsTenthProblemOverQCanonicalLaneLean.Basic
+import HilbertsTenthProblemOverQCanonicalLaneLean.SourcePackage
+import HilbertsTenthProblemOverQCanonicalLaneLean.SourceDependencies
+import HilbertsTenthProblemOverQCanonicalLaneLean.Formalization
+import HilbertsTenthProblemOverQCanonicalLaneLean.ReviewerBridge
+import HilbertsTenthProblemOverQCanonicalLaneLean.TheoremStatement

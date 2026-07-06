@@ -1,0 +1,6 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "hilberts_tenth_problem_over_q_canonical_lane_lean",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
